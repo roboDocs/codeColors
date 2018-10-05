@@ -94,11 +94,11 @@ class ColorThemesDialog:
         self.w = FloatingWindow((246, 300), "CodeColors")
         x = y = p = 10
         self.w.colorThemesList = List(
-            (x, y, -p, -p),
-            sorted(self.colorThemes.keys()),
-            selectionCallback=self.selectionCallback,
-            allowsMultipleSelection=False,
-            allowsEmptySelection=False)
+                (x, y, -p, -p),
+                sorted(self.colorThemes.keys()),
+                selectionCallback=self.selectionCallback,
+                allowsMultipleSelection=False,
+                allowsEmptySelection=False)
         self.w.open()
 
     @property
