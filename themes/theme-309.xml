@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="309" name="Cobalt" modified="2011-02-16 21:43:38" author="iMatt Solutions" website="http://www.imattsolutions.com">
+    <searchResultIndication color="#D8D8D8" />
+    <filteredSearchResultIndication color="#D8D8D8" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#111111" />
+    <deletionIndication color="#D25252" />
+    <sourceHoverBackground color="#000000" />
+    <singleLineComment color="#D0D0D0" />
+    <multiLineComment color="#0088FF" />
+    <commentTaskTag color="#0088FF" />
+    <javadoc color="#0088FF" bold="true" />
+    <javadocLink color="#0088FF" bold="true" />
+    <javadocTag color="#0088FF" bold="true" italic="false" underline="false" strikethrough="false" />
+    <javadocKeyword color="#0088FF" bold="true" />
+    <class color="#FF9D00" bold="false" underline="false" strikethrough="false" />
+    <interface color="#D197D9" />
+    <method color="#9EFF80" />
+    <methodDeclaration color="#BED6FF" />
+    <bracket color="#D8D8D8" />
+    <number color="#FF80E1" />
+    <string color="#3AD900" />
+    <operator color="#D8D8D8" />
+    <keyword color="#FFEE80" bold="false" />
+    <annotation color="#FFEE80" />
+    <staticMethod color="#9EFFFF" bold="false" />
+    <localVariable color="#9EFFFF" bold="false" />
+    <localVariableDeclaration color="#9EFFFF" />
+    <field color="#9EFFFF" />
+    <staticField color="#EFC090" />
+    <staticFinalField color="#EFC090" />
+    <deprecatedMember color="#D25252" underline="false" strikethrough="true" />
+    <enum color="#7FB347" />
+    <inheritedMethod color="#BED6FF" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#79ABFF" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <constant color="#EFC090" />
+    <background color="#002240" />
+    <currentLine color="#2A2A2A" />
+    <foreground color="#FFFFFF" />
+    <lineNumber color="#D0D0D0" />
+    <selectionBackground color="#000000" />
+    <selectionForeground color="#B36539" />
+</colorTheme>
